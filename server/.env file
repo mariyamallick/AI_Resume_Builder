@@ -1,0 +1,9 @@
+PORT=5000
+ JWT_SECRET=your_jwt_secret
+    USE_OFFICIAL_GEMINI=true
+    GEMINI_API_KEY=AIzaSyCSGabbv6s0r5HmAdqvw1asOz1UMvZ91SE
+DB_USER=postgres
+DB_HOST=localhost
+DB_NAME=resume_builder
+DB_PASSWORD=Swaroop@07
+DB_PORT=5432
